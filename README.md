@@ -1,5 +1,5 @@
 # Flutter Forge
-### Flutter Forge Setter is a Python application that allows you to easily set different platform-specific icons for your Flutter project. The application provides a user-friendly interface built on top of PyQT and allows you to set your icons quickly and easily.
+Flutter Forge is a Python application that helps you quickly set platform-specific icons for your Flutter projects. It provides a user-friendly PyQt-based interface, making the process fast, simple, and efficient.
 
 <br>
 
