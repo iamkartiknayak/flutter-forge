@@ -11,14 +11,9 @@ Flutter Forge is a Python application that helps you quickly set platform-specif
 
 # Requirements
 To use the Flutter Forge application, you will need:
-    Python 3.x
-    PyQT6
-
-
-# Installation
-* To install the Flutter Forge application, simply clone the repository to your local machine.
-
-* Then, navigate to the project directory and run the following command to 
+- Python 3.x
+- PyQT6
+- Pillow
 
 
 # Usage
